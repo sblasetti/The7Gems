@@ -1,0 +1,32 @@
+Change log
+========================
+
+V1.2 [07-01-2022]
+----------------
+New Assets:
+* Animated Ground(dirt) shore
+* Middle Trees
+    * Pointy
+    * Cilinder
+    * Round
+* Big Tree (Round)
+* Fountains:
+    * Unstable water movement
+    * Stable water
+
+Format:
+* Updated tiles sheet to be easier to pick tiles
+
+--
+
+V1.1 [04-01-2022]
+-----------------
+* Added sideways for water animation
+* Corrected brown terrain stairs
+* added horizontal and vertical pathways
+
+--
+
+V1.0 [03-01-2022]
+-----------------
+* Released v1.0
